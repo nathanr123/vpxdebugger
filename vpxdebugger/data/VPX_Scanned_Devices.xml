@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vpxSystem>
+    <name>VPXSystem</name>
+    <subsystem>
+        <id>1</id>
+        <ipDSP1>172.17.10.110</ipDSP1>
+        <ipDSP2>172.17.10.120</ipDSP2>
+        <ipP2020>172.17.10.1</ipP2020>
+        <subSystem>sub1</subSystem>
+    </subsystem>
+</vpxSystem>
